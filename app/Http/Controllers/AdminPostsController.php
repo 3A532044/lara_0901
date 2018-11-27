@@ -28,6 +28,6 @@ class AdminPostsController extends Controller
     }
     public function store()
     {
-        
+
     }
 }
